@@ -2,7 +2,7 @@ name: Code Glue (Dev)
 version: dev
 slug: code_glue_dev
 description: Write Automations and create entities in TypeScript (Development builds)
-image: ghcr.io/digital-alchemy-ts/code-glue:dev
+image: ghcr.io/digital-alchemy-ts/code-glue
 arch:
   - aarch64
   - amd64
