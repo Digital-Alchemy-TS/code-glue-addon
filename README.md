@@ -1,8 +1,10 @@
-# Code Glue Add-on Repository
+# Code Glue Add-on
 
 Home Assistant add-ons for [Code Glue](https://github.com/Digital-Alchemy-TS/code-glue) - Write Automations and create entities in TypeScript via a built-in IDE.
 
 ## Installation
+
+[![Add repository on my Home Assistant][repository-badge]][repository-url]
 
 Add this repository to your Home Assistant instance:
 
@@ -45,3 +47,6 @@ Found a bug or have a feature request?
 This repository contains only the Home Assistant add-on configurations. The actual application source code lives in the main [code-glue repository](https://github.com/Digital-Alchemy-TS/code-glue).
 
 Container images are built and published automatically via GitHub Actions.
+
+[repository-badge]: https://img.shields.io/badge/Add%20repository%20to%20my-Home%20Assistant-41BDF5?logo=home-assistant&style=for-the-badge
+[repository-url]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2FDigital-Alchemy-TS%2Fcode-glue-addon
