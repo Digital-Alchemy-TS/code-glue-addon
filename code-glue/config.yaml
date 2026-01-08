@@ -1,7 +1,7 @@
 name: Code Glue
 version: "1.0.0"
 slug: code_glue
-description: Write Automations and create entities in TypeScript
+description: Built-in IDE to write automations and create entities in TypeScript
 image: ghcr.io/digital-alchemy-ts/code-glue
 arch:
   - aarch64
